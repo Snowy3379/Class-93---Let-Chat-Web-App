@@ -1,0 +1,16 @@
+body {
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/007/523/322/small/fresh-abstract-banner-background-with-text-space-vector.jpg");
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    color: black;
+}
+
+center {
+    border-radius: 3%;
+    border-style: ridge;
+    border-color: lavender;
+    background-color: rgb(137, 137, 185);
+    text-align: center;
+    padding: 50;
+}
